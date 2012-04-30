@@ -12,6 +12,10 @@
 ### 第3回 2012.4.26 Ruby環境構築、irb、.rb、オブジェクト、計算、日本語の扱い
 - http://bit.ly/ruby-lecture3
 
+### 第4回 2012.5.1 shell、変数、条件判断、繰り返し、メソッド、require
+- http://bit.ly/ruby0501
+
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://bit.ly/rubyvmdata

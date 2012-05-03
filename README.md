@@ -13,7 +13,7 @@
 - http://bit.ly/ruby-lecture3
 
 ### 第4回 2012.5.1 shell、変数、条件判断、繰り返し、メソッド、require
-- http://bit.ly/http://bit.ly/ruby-lecture4
+- http://bit.ly/ruby-lecture4
 
 
 ## Data

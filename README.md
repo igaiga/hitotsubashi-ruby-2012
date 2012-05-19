@@ -17,7 +17,7 @@
 ### 第5回 2012.5.10 Array, Hash
 - http://speakerdeck.com/u/igaiga/p/ruby-5
 
-### 第6回 2012.5.17 Wikipedia アクセス解析(前編)
+### 第6回 2012.5.17 Wikipedia アクセス数解析(前編)
 - http://speakerdeck.com/u/igaiga/p/ruby-6
 
 

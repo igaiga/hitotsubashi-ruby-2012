@@ -1,4 +1,3 @@
-# 講義資料置き場
 # 社会科学における情報技術とコンテンツ作成
 # ニフティ株式会社寄附講義
 
@@ -18,8 +17,13 @@
 ### 第5回 2012.5.10 Array, Hash
 - http://speakerdeck.com/u/igaiga/p/ruby-5
 
+### 第6回 2012.5.17 Wikipedia アクセス解析(前編)
+- http://speakerdeck.com/u/igaiga/p/ruby-6
+
+
 ## Data
 ### VirtualBox Ubuntu image file
-- http://bit.ly/rubyvmdata
+- http://igarashikuniaki.net/tmp/ubuntu-ja-11.10-desktop-i386.vhd
+
 
 

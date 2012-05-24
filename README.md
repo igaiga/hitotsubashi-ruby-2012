@@ -21,7 +21,7 @@
 - http://speakerdeck.com/u/igaiga/p/ruby-6
 
 ### 第7回 2012.5.24 Wikipedia アクセス数解析(後編) ブロック、リファレンスマニュアル
-- https://github.com/hitotsubashi-ruby/lecture2012/raw/master/materials/lecture7.pdf
+- https://speakerdeck.com/u/igaiga/p/ruby-7
 
 
 ## Data

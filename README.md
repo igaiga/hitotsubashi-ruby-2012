@@ -27,6 +27,4 @@
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-11.10-desktop-i386.vhd
-
-
-
+- id: dev, pass: devdev

@@ -23,6 +23,9 @@
 ### 第7回 2012.5.24 Wikipedia アクセス数解析(後編) ブロック、リファレンスマニュアル
 - https://speakerdeck.com/u/igaiga/p/ruby-7
 
+### 第8回 2012.5.31 Wikipedia 演習回、アクセス数解析、破壊的メソッド
+- https://speakerdeck.com/u/igaiga/p/ruby8
+
 
 ## Data
 ### VirtualBox Ubuntu image file

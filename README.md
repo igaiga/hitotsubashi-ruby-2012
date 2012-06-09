@@ -26,6 +26,8 @@
 ### 第8回 2012.5.31 Wikipedia 演習回、アクセス数解析、破壊的メソッド
 - https://speakerdeck.com/u/igaiga/p/ruby8
 
+### 第9回 2012.6.7 クラス、 インスタンス、 インスタンスメソッド、クラスメソッド、インスタンス変数、attr_accessor
+- https://speakerdeck.com/u/igaiga/p/ruby-9
 
 ## Data
 ### VirtualBox Ubuntu image file

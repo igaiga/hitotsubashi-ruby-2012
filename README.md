@@ -29,6 +29,9 @@
 ### 第9回 2012.6.7 クラス、 インスタンス、 インスタンスメソッド、クラスメソッド、インスタンス変数、attr_accessor
 - https://speakerdeck.com/u/igaiga/p/ruby-9
 
+### 第10回 2012.6.14 オブジェクト指向、privateとpublic、継承
+- https://speakerdeck.com/u/igaiga/p/ruby-10
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-11.10-desktop-i386.vhd

@@ -32,6 +32,10 @@
 ### 第10回 2012.6.14 オブジェクト指向、privateとpublic、継承
 - https://speakerdeck.com/u/igaiga/p/ruby-10
 
+### 第11回 2012.6.21 継承、Mix-in
+- https://speakerdeck.com/u/igaiga/p/ruby-11
+
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-11.10-desktop-i386.vhd

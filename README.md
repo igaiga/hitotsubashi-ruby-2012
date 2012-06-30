@@ -35,6 +35,9 @@
 ### 第11回 2012.6.21 継承、Mix-in
 - https://speakerdeck.com/u/igaiga/p/ruby-11
 
+### 第12回 2012.6.28 Gem
+- https://speakerdeck.com/u/igaiga/p/ruby-12
+
 
 ## Data
 ### VirtualBox Ubuntu image file

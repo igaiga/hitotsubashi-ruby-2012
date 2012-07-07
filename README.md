@@ -38,6 +38,9 @@
 ### 第12回 2012.6.28 Gem
 - https://speakerdeck.com/u/igaiga/p/ruby-12
 
+### 第13回 2012.7.5 Rails環境構築
+- https://speakerdeck.com/u/igaiga/p/ruby-and-rails-13
+
 
 ## Data
 ### VirtualBox Ubuntu image file

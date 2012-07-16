@@ -44,6 +44,8 @@
 ### 第14回 2012.7.12 リクエストとレスポンス、Railsの動作(Routes, Controller, View)
 - https://speakerdeck.com/u/igaiga/p/ruby-and-rails-14
 
+### 第15回 2012.7.19 ここまでの総復習
+- https://speakerdeck.com/u/igaiga/p/ruby-15
 
 ## Data
 ### VirtualBox Ubuntu image file

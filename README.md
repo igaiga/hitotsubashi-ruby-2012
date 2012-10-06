@@ -1,7 +1,7 @@
 # 社会科学における情報技術とコンテンツ作成
 # ニフティ株式会社寄附講義
 
-## 講義資料
+## 講義資料 夏学期
 ### 第1回 2012.4.12 講義ガイダンス、Rubyについて
 - http://speakerdeck.com/u/igaiga/p/ruby-1
 
@@ -46,6 +46,11 @@
 
 ### 第15回 2012.7.19 ここまでの総復習
 - https://speakerdeck.com/u/igaiga/p/ruby-15
+
+## 講義資料 冬学期
+
+### 第16回 2012.10.4 ガイダンス
+- https://speakerdeck.com/u/igaiga/p/lecture16
 
 ## Data
 ### VirtualBox Ubuntu image file

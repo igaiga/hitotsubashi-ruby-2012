@@ -55,6 +55,9 @@
 ### 第17回 2012.10.11 Rails基礎 一番小さなRailsアプリつくり
 - https://speakerdeck.com/u/igaiga/p/railsjiang-yi-di-16hui
 
+### 第18,19回 2012.10.18,25 Rails基礎 おみくじアプリつくり
+- https://speakerdeck.com/u/igaiga/p/r
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-11.10-desktop-i386.vhd

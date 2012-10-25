@@ -56,7 +56,7 @@
 - https://speakerdeck.com/u/igaiga/p/railsjiang-yi-di-16hui
 
 ### 第18,19回 2012.10.18,25 Rails基礎 おみくじアプリつくり
-- https://speakerdeck.com/igaiga/ruby-on-railsjiang-yi-di-18hui-railsji-chu
+- https://speakerdeck.com/igaiga/ruby-on-railsjiang-yi-di-18hui-di-19hui-railsji-chu
 
 ## Data
 ### VirtualBox Ubuntu image file

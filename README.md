@@ -58,6 +58,10 @@
 ### 第18,19回 2012.10.18,25 Rails基礎 おみくじアプリつくり
 - https://speakerdeck.com/igaiga/ruby-on-railsjiang-yi-di-18hui-di-19hui-railsji-chu
 
+### 第20回 2012.11.8 HTML基礎
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-20hui-htmlji-chu
+
+
 ## Data
 ### VirtualBox Ubuntu image file
 - http://igarashikuniaki.net/tmp/ubuntu-ja-11.10-desktop-i386.vhd

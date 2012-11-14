@@ -61,6 +61,9 @@
 ### 第20回 2012.11.8 HTML基礎
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-20hui-htmlji-chu
 
+### 第21回 2012.11.15 CSS基礎
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-21hui-cssji-chu
+
 
 ## Data
 ### VirtualBox Ubuntu image file

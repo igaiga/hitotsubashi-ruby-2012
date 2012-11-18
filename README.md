@@ -64,6 +64,9 @@
 ### 第21回 2012.11.15 CSS基礎
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-21hui-cssji-chu
 
+### 第22回 2012.11.22 画像投稿アプリとCRUD基礎
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-22hui-hua-xiang-tou-gao-apuritocrudji-chu
+
 
 ## Data
 ### VirtualBox Ubuntu image file

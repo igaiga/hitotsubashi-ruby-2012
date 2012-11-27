@@ -67,6 +67,9 @@
 ### 第22回 2012.11.22 画像投稿アプリとCRUD基礎
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-22hui-hua-xiang-tou-gao-apuritocrudji-chu
 
+### 第23回 2012.11.29 C4SAを使ってアプリを公開する
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-23hui-c4sawoshi-tuteapuriwogong-kai-suru
+
 
 ## Data
 ### VirtualBox Ubuntu image file

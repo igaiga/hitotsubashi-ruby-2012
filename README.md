@@ -70,6 +70,9 @@
 ### 第23回 2012.11.29 C4SAを使ってアプリを公開する
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-23hui-c4sawoshi-tuteapuriwogong-kai-suru
 
+### 第24回 2012.12.6 new & create
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-24hui-new-and-create
+
 
 ## Data
 ### VirtualBox Ubuntu image file

@@ -73,6 +73,9 @@
 ### 第24回 2012.12.6 new & create
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-24hui-new-and-create
 
+### 第25回 2012.12.13 model
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-25hui-model
+
 
 ## Data
 ### VirtualBox Ubuntu image file

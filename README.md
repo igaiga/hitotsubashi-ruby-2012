@@ -76,6 +76,9 @@
 ### 第25回 2012.12.13 model
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-25hui-model
 
+### 第26回 2012.12.20 コードを書くための工具箱
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-26hui-kodowoshu-kutamefalsedao-ju-xiang
+
 
 ## Data
 ### VirtualBox Ubuntu image file

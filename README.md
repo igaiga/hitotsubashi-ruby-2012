@@ -79,6 +79,9 @@
 ### 第26回 2012.12.20 コードを書くための工具箱
 - https://speakerdeck.com/igaiga/railsjiang-yi-di-26hui-kodowoshu-kutamefalsedao-ju-xiang
 
+### 第27回 2012.12.27 自由制作演習
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-27hui-zi-you-zhi-zuo-yan-xi
+
 
 ## Data
 ### VirtualBox Ubuntu image file

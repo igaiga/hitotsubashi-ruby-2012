@@ -90,3 +90,6 @@
 - Ubuntu 12.04
 - Ruby-2.0.0-p0
 - Rails 3.2.13
+
+VirtualBox の簡単な解説
+- https://speakerdeck.com/igaiga/rubyhuan-jing-gou-zhu

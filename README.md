@@ -45,7 +45,7 @@
 - https://speakerdeck.com/u/igaiga/p/ruby-and-rails-14
 
 ### 第15回 2012.7.19 ここまでの総復習
-- https://speakerdeck.com/u/igaiga/p/ruby-15
+- https://speakerdeck.com/igaiga/rubyjiang-yi-di-15hui
 
 ## 講義資料 冬学期
 

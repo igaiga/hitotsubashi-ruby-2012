@@ -53,7 +53,7 @@
 - https://speakerdeck.com/u/igaiga/p/lecture16
 
 ### 第17回 2012.10.11 Rails基礎 一番小さなRailsアプリつくり
-- https://speakerdeck.com/u/igaiga/p/railsjiang-yi-di-16hui
+- https://speakerdeck.com/igaiga/railsjiang-yi-di-17hui
 
 ### 第18,19回 2012.10.18,25 Rails基礎 おみくじアプリつくり
 - https://speakerdeck.com/igaiga/ruby-on-railsjiang-yi-di-18hui-di-19hui-railsji-chu
